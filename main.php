@@ -1,3 +1,4 @@
 <?php
-	print("TAN");
+	echo ("TAN");
+	echo ("xxxx");
 ?>
